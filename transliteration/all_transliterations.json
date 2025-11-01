@@ -1,0 +1,1404 @@
+{
+    "Sources": {
+        "khmer ipa": "https://en.wikipedia.org/wiki/Khmer_script",
+        "thai": "https://en.wikipedia.org/wiki/Thai_script",
+        "lao": "https://en.wikipedia.org/wiki/Lao_script"
+    },
+    "Consonants": [
+        "ຣ", "ฝ", "ฐ", "ຍ", "ผ", "ว", "ງ", "ສ", "ຢ", "ຮ", "ก", "ฌ", "ບ", "ພ", "น", "ฅ", "ฑ", "ທ", "ฬ", "ດ", "ກ", "ຟ", "ข", "ซ", "ด", "ห", "ง", "ญ", "ช", "ฆ", "ศ", "ฮ", "ธ", "ຖ", "ฟ", "า", "ໝ", "ฏ", "ท", "ລ", "ป", "ຄ", "ร", "ภ", "ฎ", "ฃ", "ຕ", "ต", "ม", "ມ", "อ", "ณ", "າ", "ย", "ໜ", "ອ", "จ", "ຝ", "ฉ", "พ", "ຫ", "ວ", "ค", "ถ", "ປ", "ส", "ຈ", "ຜ", "ล", "ษ", "ຂ", "ນ", "ຊ", "ฒ", "บ"
+    ],
+    "Characters": {
+        "ก": {
+            "ipa": "k",
+            "romanized": "k",
+            "cat": "k"
+        },
+        "ข": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ฃ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ค": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ฅ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ฆ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ง": {
+            "ipa": "ŋ",
+            "romanized": "ng",
+            "cat": "ng"
+        },
+        "จ": {
+            "ipa": "tɕ",
+            "romanized": "ch",
+            "cat": "c"
+        },
+        "ฉ": {
+            "ipa": "tɕʰ",
+            "romanized": "ch",
+            "cat": "s"
+        },
+        "ช": {
+            "ipa": "tɕʰ",
+            "romanized": "ch",
+            "cat": "ch"
+        },
+        "ซ": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "s"
+        },
+        "ฌ": {
+            "ipa": "tɕʰ",
+            "romanized": "ch",
+            "cat": "ch"
+        },
+        "ญ": {
+            "ipa": "j",
+            "romanized": "y",
+            "cat": "y"
+        },
+        "ฎ": {
+            "ipa": "d",
+            "romanized": "d",
+            "cat": "t"
+        },
+        "ฏ": {
+            "ipa": "t",
+            "romanized": "t",
+            "cat": "t"
+        },
+        "ฐ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ฑ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ฒ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ณ": {
+            "ipa": "n",
+            "romanized": "n",
+            "cat": "n"
+        },
+        "ด": {
+            "ipa": "d",
+            "romanized": "d",
+            "cat": "t"
+        },
+        "ต": {
+            "ipa": "t",
+            "romanized": "t",
+            "cat": "t"
+        },
+        "ถ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ท": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ธ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "น": {
+            "ipa": "n",
+            "romanized": "n",
+            "cat": "n"
+        },
+        "บ": {
+            "ipa": "b",
+            "romanized": "b",
+            "cat": "b"
+        },
+        "ป": {
+            "ipa": "p",
+            "romanized": "p",
+            "cat": "p"
+        },
+        "ผ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ฝ": {
+            "ipa": "f",
+            "romanized": "f",
+            "cat": "v"
+        },
+        "พ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ฟ": {
+            "ipa": "f",
+            "romanized": "f",
+            "cat": "v"
+        },
+        "ภ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ม": {
+            "ipa": "m",
+            "romanized": "m",
+            "cat": "m"
+        },
+        "ย": {
+            "ipa": "j",
+            "romanized": "y",
+            "cat": "y"
+        },
+        "ร": {
+            "ipa": "r",
+            "romanized": "r",
+            "cat": "r"
+        },
+        "ฤ": {
+            "ipa": "rɯ",
+            "romanized": "ru",
+            "cat": "ru",
+            "note": "this is like the ឬ in khmer, but it's obsolete"
+        },
+        "ล": {
+            "ipa": "l",
+            "romanized": "l",
+            "cat": "l"
+        },
+        "ฦ": {
+            "ipa": "lɯ",
+            "romanized": "lu",
+            "cat": "lu"
+        },
+        "ว": {
+            "ipa": "w",
+            "romanized": "w",
+            "cat": "v"
+        },
+        "ศ": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "s"
+        },
+        "ษ": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "s"
+        },
+        "ส": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "s"
+        },
+        "ห": {
+            "ipa": "h",
+            "romanized": "h",
+            "cat": "h",
+            "note": "This consonant is included in a lot of compound consonants."
+        },
+        "ฬ": {
+            "ipa": "l",
+            "romanized": "l",
+            "cat": "l"
+        },
+        "อ": {
+            "ipa": "ʔ",
+            "romanized": "",
+            "cat": "ɔ"
+        },
+        "ฮ": {
+            "ipa": "h",
+            "romanized": "h",
+            "cat": "r"
+        },
+        "ฯ": {
+            "ipa": "",
+            "romanized": "",
+            "cat": "",
+            "note": "Used for abbreviations"
+        },
+        "ะ": {
+            "ipa": "aʔ",
+            "romanized": "a",
+            "cat": "ah"
+        },
+        "ั": {
+            "ipa": "a",
+            "romanized": "a",
+            "cat": "ah"
+        },
+        "า": {
+            "ipa": "aː",
+            "romanized": "aa",
+            "cat": "aa"
+        },
+        "ำ": {
+            "ipa": "am",
+            "romanized": "am",
+            "cat": "am"
+        },
+        "ิ": {
+            "ipa": "i",
+            "romanized": "i",
+            "cat": "i"
+        },
+        "ี": {
+            "ipa": "iː",
+            "romanized": "ii",
+            "cat": "ei"
+        },
+        "ึ": {
+            "ipa": "ɯ",
+            "romanized": "ue",
+            "cat": "u"
+        },
+        "ื": {
+            "ipa": "ɯː",
+            "romanized": "uee",
+            "cat": "uu"
+        },
+        "ุ": {
+            "ipa": "u",
+            "romanized": "u",
+            "cat": "o"
+        },
+        "ู": {
+            "ipa": "uː",
+            "romanized": "uu",
+            "cat": "oo"
+        },
+        "เ": {
+            "ipa": "eː",
+            "romanized": "e",
+            "cat": "e"
+        },
+        "แ": {
+            "ipa": "ɛː",
+            "romanized": "ae",
+            "cat": "e"
+        },
+        "โ": {
+            "ipa": "oː",
+            "romanized": "o",
+            "cat": "oo"
+        },
+        "ใ": {
+            "ipa": "aj",
+            "romanized": "ai",
+            "cat": "ae"
+        },
+        "ไ": {
+            "ipa": "aj",
+            "romanized": "ai",
+            "cat": "ae"
+        },
+        "ๅ": {
+            "ipa": "ː",
+            "romanized": "",
+            "cat": "",
+            "note": "I belive this is only used with ฤๅ and ฦๅ"
+        },
+        "ํา": {
+            "ipa": "am",
+            "romanized": "am",
+            "cat": "am"
+        },
+        "ือ": {
+            "ipa": "ɯː",
+            "romanized": "eu",
+            "cat": "uu"
+        },
+        "◌ัว": {
+            "ipa": "ua",
+            "romanized": "ua",
+            "cat": "ua"
+        },
+        "◌ว": {
+            "ipa": "ua",
+            "romanized": "ua",
+            "cat": "ʉa"
+        },
+        "เ◌อ": {
+            "ipa": "ɤː",
+            "romanized": "oe",
+            "cat": "au"
+        },
+        "เ◌ย": {
+            "ipa": "ɤːj",
+            "romanized": "oei",
+            "cat": "au"
+        },
+        "เ◌ิ": {
+            "ipa": "",
+            "romanized": "",
+            "cat": "au"
+        },
+        "เ◌ือ": {
+            "ipa": "ɯa",
+            "romanized": "uea",
+            "cat": "ʉa"
+        },
+        "เ◌ีย": {
+            "ipa": "ia",
+            "romanized": "ia",
+            "cat": "ia"
+        },
+        "เ◌ะ": {
+            "ipa": "eʔ",
+            "romanized": "e",
+            "cat": "e"
+        },
+        "เ◌็": {
+            "ipa": "",
+            "romanized": "",
+            "cat": "e"
+        },
+        "ัย": {
+            "ipa": "aj",
+            "romanized": "ai",
+            "cat": "ae"
+        },
+        "เ◌า": {
+            "ipa": "aw",
+            "romanized": "ao",
+            "cat": "ao"
+        },
+        "แ◌ะ": {
+            "ipa": "ɛʔ",
+            "romanized": "ae",
+            "cat": "a"
+        },
+        "แ◌็": {
+            "ipa": "ɛʔ",
+            "romanized": "ae",
+            "cat": "a"
+        },
+        "เ◌าะ": {
+            "ipa": "ɔʔ",
+            "romanized": "o",
+            "cat": "ɔh"
+        },
+        "็อ": {
+            "ipa": "ɔː",
+            "romanized": "o",
+            "cat": "ɔh"
+        },
+        "โ◌ะ": {
+            "ipa": "oʔ",
+            "romanized": "o",
+            "cat": "oh"
+        },
+        "๐": {
+            "ipa": "0",
+            "romanized": "0",
+            "cat": "0"
+        },
+        "๑": {
+            "ipa": "1",
+            "romanized": "1",
+            "cat": "1"
+        },
+        "๒": {
+            "ipa": "2",
+            "romanized": "2",
+            "cat": "2"
+        },
+        "๓": {
+            "ipa": "3",
+            "romanized": "3",
+            "cat": "3"
+        },
+        "๔": {
+            "ipa": "4",
+            "romanized": "4",
+            "cat": "4"
+        },
+        "๕": {
+            "ipa": "5",
+            "romanized": "5",
+            "cat": "5"
+        },
+        "๖": {
+            "ipa": "6",
+            "romanized": "6",
+            "cat": "6"
+        },
+        "๗": {
+            "ipa": "7",
+            "romanized": "7",
+            "cat": "7"
+        },
+        "๘": {
+            "ipa": "8",
+            "romanized": "8",
+            "cat": "8"
+        },
+        "๙": {
+            "ipa": "9",
+            "romanized": "9",
+            "cat": "9"
+        },
+        "่": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "้": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "๊": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "๋": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "์": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "ກ": {
+            "ipa": "k",
+            "romanized": "k",
+            "cat": "k"
+        },
+        "ຂ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ຄ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ງ": {
+            "ipa": "ŋ",
+            "romanized": "ng",
+            "cat": "ng"
+        },
+        "ຈ": {
+            "ipa": "tɕ",
+            "romanized": "c",
+            "cat": "c"
+        },
+        "ຊ": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "ch"
+        },
+        "ຍ": {
+            "ipa": "ɲ",
+            "romanized": "ny",
+            "cat": "y"
+        },
+        "ດ": {
+            "ipa": "d",
+            "romanized": "d",
+            "cat": "t"
+        },
+        "ຕ": {
+            "ipa": "t",
+            "romanized": "t",
+            "cat": "t"
+        },
+        "ຖ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ທ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ນ": {
+            "ipa": "n",
+            "romanized": "n",
+            "cat": "n"
+        },
+        "ບ": {
+            "ipa": "b",
+            "romanized": "b",
+            "cat": "b"
+        },
+        "ປ": {
+            "ipa": "p",
+            "romanized": "p",
+            "cat": "p"
+        },
+        "ຜ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ຝ": {
+            "ipa": "f",
+            "romanized": "f",
+            "cat": "v"
+        },
+        "ພ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ຟ": {
+            "ipa": "f",
+            "romanized": "f",
+            "cat": "v"
+        },
+        "ມ": {
+            "ipa": "m",
+            "romanized": "m",
+            "cat": "m"
+        },
+        "ຢ": {
+            "ipa": "j",
+            "romanized": "y",
+            "cat": "y"
+        },
+        "ຣ": {
+            "ipa": "r",
+            "romanized": "l",
+            "cat": "r"
+        },
+        "ລ": {
+            "ipa": "l",
+            "romanized": "l",
+            "cat": "l"
+        },
+        "ວ": {
+            "ipa": "w",
+            "romanized": "w",
+            "cat": "v"
+        },
+        "ສ": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "s"
+        },
+        "ຫ": {
+            "ipa": "h",
+            "romanized": "h",
+            "cat": "h"
+        },
+        "ອ": {
+            "ipa": "ʔ",
+            "romanized": "o",
+            "cat": "ɔ"
+        },
+        "ຮ": {
+            "ipa": "h",
+            "romanized": "h",
+            "cat": "r"
+        },
+        "ະ": {
+            "ipa": "aʔ",
+            "romanized": "a",
+            "cat": "ah"
+        },
+        "ັ": {
+            "ipa": "aʔ",
+            "romanized": "a",
+            "cat": "ah"
+        },
+        "າ": {
+            "ipa": "aː",
+            "romanized": "aa",
+            "cat": "aa"
+        },
+        "ຳ": {
+            "ipa": "am",
+            "romanized": "am",
+            "cat": "om",
+            "note": "Ask Christian if this ever occurs by itself."
+        },
+        "ິ": {
+            "ipa": "i",
+            "romanized": "i",
+            "cat": "i"
+        },
+        "ີ": {
+            "ipa": "iː",
+            "romanized": "ii",
+            "cat": "ei"
+        },
+        "ຶ": {
+            "ipa": "ɯ",
+            "romanized": "y",
+            "cat": "u"
+        },
+        "ື": {
+            "ipa": "ɯː",
+            "romanized": "yy",
+            "cat": "uu"
+        },
+        "ຸ": {
+            "ipa": "u",
+            "romanized": "u",
+            "cat": "o"
+        },
+        "ູ": {
+            "ipa": "uː",
+            "romanized": "uu",
+            "cat": "oo"
+        },
+        "ົ": {
+            "ipa": "oʔ",
+            "romanized": "o",
+            "cat": "oh"
+        },
+        "ເ": {
+            "ipa": "eː",
+            "romanized": "e",
+            "cat": "e"
+        },
+        "ແ": {
+            "ipa": "ɛː",
+            "romanized": "ei",
+            "cat": "ae",
+            "note": "Does this ever occur by itself? I don't think so, but should check with Christian"
+        },
+        "ໂ": {
+            "ipa": "oː",
+            "romanized": "o",
+            "cat": "oo"
+        },
+        "ໃ": {
+            "ipa": "aj",
+            "romanized": "ay",
+            "cat": "ae"
+        },
+        "ໄ": {
+            "ipa": "aj",
+            "romanized": "ai",
+            "cat": "ae"
+        },
+        "ໆ": {
+            "ipa": "",
+            "romanized": "",
+            "cat": "ៗ",
+            "note": "repeat symbol"
+        },
+        "ໜ": {
+            "ipa": "n",
+            "romanized": "n",
+            "cat": "n"
+        },
+        "ໝ": {
+            "ipa": "m",
+            "romanized": "m",
+            "cat": "m"
+        },
+        "ຽ": {
+            "ipa": "ia",
+            "romanized": "ia",
+            "cat": "ia"
+        },
+        "ຫຍ": {
+            "ipa": "ɲ",
+            "romanized": "hny",
+            "cat": "y"
+        },
+        "ຫງ": {
+            "ipa": "ŋ",
+            "romanized": "hng",
+            "cat": "ng"
+        },
+        "ຫຣ": {
+            "ipa": "r",
+            "romanized": "hl",
+            "cat": "r"
+        },
+        "ຫວ": {
+            "ipa": "w",
+            "romanized": "hw",
+            "cat": "v"
+        },
+        "ຫຼ": {
+            "ipa": "l",
+            "romanized": "hl",
+            "cat": "l"
+        },
+        "ົວ": {
+            "ipa": "ua",
+            "romanized": "ow",
+            "cat": "ua"
+        },
+        "◌ວ": {
+            "ipa": "ua",
+            "romanized": "ua",
+            "cat": "ʉa"
+        },
+        "ເ◌ີ": {
+            "ipa": "ɤʔ",
+            "romanized": "",
+            "cat": "au"
+        },
+        "ເ◌ືອ": {
+            "ipa": "ɯaʔ",
+            "romanized": "ua",
+            "cat": "ʉa"
+        },
+        "ເ◌ຶອ": {
+            "ipa": "ɯaʔ",
+            "romanized": "ua",
+            "cat": "ʉa"
+        },
+        "ເ◌ຍ": {
+            "ipa": "ia",
+            "romanized": "ia",
+            "cat": "ia"
+        },
+        "ເ◌ະ": {
+            "ipa": "e",
+            "romanized": "e",
+            "cat": "e"
+        },
+        "ເ◌ັ": {
+            "ipa": "e",
+            "romanized": "e",
+            "cat": "e"
+        },
+        "ເ◌ົາ": {
+            "ipa": "aw",
+            "romanized": "ao",
+            "cat": "ao"
+        },
+        "ແ◌ະ": {
+            "ipa": "ɛ",
+            "romanized": "e",
+            "cat": "a"
+        },
+        "ແ◌ັ": {
+            "ipa": "ɛ",
+            "romanized": "e",
+            "cat": "a"
+        },
+        "ໂ◌ະ": {
+            "ipa": "o",
+            "romanized": "o",
+            "cat": "oh"
+        },
+        "໐": {
+            "ipa": "0",
+            "romanized": "0",
+            "cat": "0"
+        },
+        "໑": {
+            "ipa": "1",
+            "romanized": "1",
+            "cat": "1"
+        },
+        "໒": {
+            "ipa": "2",
+            "romanized": "2",
+            "cat": "2"
+        },
+        "໓": {
+            "ipa": "3",
+            "romanized": "3",
+            "cat": "3"
+        },
+        "໔": {
+            "ipa": "4",
+            "romanized": "4",
+            "cat": "4"
+        },
+        "໕": {
+            "ipa": "5",
+            "romanized": "5",
+            "cat": "5"
+        },
+        "໖": {
+            "ipa": "6",
+            "romanized": "6",
+            "cat": "6"
+        },
+        "໗": {
+            "ipa": "7",
+            "romanized": "7",
+            "cat": "7"
+        },
+        "໘": {
+            "ipa": "8",
+            "romanized": "8",
+            "cat": "8"
+        },
+        "໙": {
+            "ipa": "9",
+            "romanized": "9",
+            "cat": "9"
+        },
+        "່": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "້": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "໊": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "໋": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "໌": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "ក": {
+            "ipa": "k",
+            "romanized": "k",
+            "cat": "k"
+        },
+        "ខ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "គ": {
+            "ipa": "k",
+            "romanized": "k",
+            "cat": "k"
+        },
+        "ឃ": {
+            "ipa": "kʰ",
+            "romanized": "kh",
+            "cat": "kh"
+        },
+        "ង": {
+            "ipa": "ŋ",
+            "romanized": "ng",
+            "cat": "ng"
+        },
+        "ច": {
+            "ipa": "c",
+            "romanized": "c",
+            "cat": "c"
+        },
+        "ឆ": {
+            "ipa": "cʰ",
+            "romanized": "ch",
+            "cat": "ch"
+        },
+        "ជ": {
+            "ipa": "c",
+            "romanized": "c",
+            "cat": "ch"
+        },
+        "ឈ": {
+            "ipa": "cʰ",
+            "romanized": "ch",
+            "cat": "ch"
+        },
+        "ញ": {
+            "ipa": "ɲ",
+            "romanized": "ny",
+            "cat": "y"
+        },
+        "ដ": {
+            "ipa": "ɗ",
+            "romanized": "d",
+            "cat": "t"
+        },
+        "ឋ": {
+            "ipa": "tʰ",
+            "romanized": "tth",
+            "cat": "t"
+        },
+        "ឌ": {
+            "ipa": "ɗ",
+            "romanized": "d",
+            "cat": "t"
+        },
+        "ឍ": {
+            "ipa": "tʰ",
+            "romanized": "tth",
+            "cat": "t"
+        },
+        "ណ": {
+            "ipa": "n",
+            "romanized": "nn",
+            "cat": "n"
+        },
+        "ត": {
+            "ipa": "t",
+            "romanized": "t",
+            "cat": "t"
+        },
+        "ថ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ទ": {
+            "ipa": "t",
+            "romanized": "t",
+            "cat": "t"
+        },
+        "ធ": {
+            "ipa": "tʰ",
+            "romanized": "th",
+            "cat": "t"
+        },
+        "ន": {
+            "ipa": "n",
+            "romanized": "n",
+            "cat": "n"
+        },
+        "ប": {
+            "ipa": "ɓ",
+            "romanized": "b",
+            "cat": "b"
+        },
+        "ផ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ព": {
+            "ipa": "p",
+            "romanized": "p",
+            "cat": "p"
+        },
+        "ភ": {
+            "ipa": "pʰ",
+            "romanized": "ph",
+            "cat": "ph"
+        },
+        "ម": {
+            "ipa": "m",
+            "romanized": "m",
+            "cat": "m"
+        },
+        "យ": {
+            "ipa": "j",
+            "romanized": "y",
+            "cat": "y"
+        },
+        "រ": {
+            "ipa": "r",
+            "romanized": "r",
+            "cat": "r"
+        },
+        "ល": {
+            "ipa": "l",
+            "romanized": "l",
+            "cat": "l"
+        },
+        "វ": {
+            "ipa": "ʋ",
+            "romanized": "v",
+            "cat": "v"
+        },
+        "ឝ": {
+            "ipa": "ɕ",
+            "romanized": "sh",
+            "cat": ""
+        },
+        "ឞ": {
+            "ipa": "ʂ",
+            "romanized": "ss",
+            "cat": ""
+        },
+        "ស": {
+            "ipa": "s",
+            "romanized": "s",
+            "cat": "s"
+        },
+        "ហ": {
+            "ipa": "h",
+            "romanized": "h",
+            "cat": "h"
+        },
+        "ឡ": {
+            "ipa": "l",
+            "romanized": "l",
+            "cat": "l"
+        },
+        "អ": {
+            "ipa": "ʔ",
+            "romanized": "q",
+            "cat": "ɔ"
+        },
+        "ឥ": {
+            "ipa": "ʔə",
+            "romanized": "qi",
+            "cat": "i"
+        },
+        "ឦ": {
+            "ipa": "ʔəj",
+            "romanized": "qii",
+            "cat": "ei"
+        },
+        "ឧ": {
+            "ipa": "ʔo",
+            "romanized": "qu",
+            "cat": "o"
+        },
+        "ឨ": {
+            "ipa": "ʔok",
+            "romanized": "quk",
+            "cat": "oo"
+        },
+        "ឩ": {
+            "ipa": "ʔou",
+            "romanized": "quu",
+            "cat": "oo"
+        },
+        "ឪ": {
+            "ipa": "ʔəw",
+            "romanized": "quuv",
+            "cat": "oo"
+        },
+        "ឫ": {
+            "ipa": "rɨ",
+            "romanized": "ry",
+            "cat": "ru"
+        },
+        "ឬ": {
+            "ipa": "rɨː",
+            "romanized": "ryy",
+            "cat": "ru"
+        },
+        "ឭ": {
+            "ipa": "lɨ",
+            "romanized": "ly",
+            "cat": "lu"
+        },
+        "ឮ": {
+            "ipa": "lɨː",
+            "romanized": "lyy",
+            "cat": "lu"
+        },
+        "ឯ": {
+            "ipa": "ʔae",
+            "romanized": "qe",
+            "cat": "ae"
+        },
+        "ឰ": {
+            "ipa": "ʔaj",
+            "romanized": "qai",
+            "cat": "ae"
+        },
+        "ឱ": {
+            "ipa": "ʔao",
+            "romanized": "qoo",
+            "cat": "ao"
+        },
+        "ឲ": {
+            "ipa": "ʔao",
+            "romanized": "qoo",
+            "cat": "ao"
+        },
+        "ឳ": {
+            "ipa": "ʔaw",
+            "romanized": "qau",
+            "cat": "ao"
+        },
+        "ា": {
+            "ipa": "aː",
+            "romanized": "aa",
+            "cat": "aa"
+        },
+        "ិ": {
+            "ipa": "e",
+            "romanized": "i",
+            "cat": "i"
+        },
+        "ី": {
+            "ipa": "əj",
+            "romanized": "ii",
+            "cat": "ei"
+        },
+        "ឹ": {
+            "ipa": "ə",
+            "romanized": "y",
+            "cat": "u"
+        },
+        "ឺ": {
+            "ipa": "əɨ",
+            "romanized": "yy",
+            "cat": "uu"
+        },
+        "ុ": {
+            "ipa": "o",
+            "romanized": "u",
+            "cat": "o"
+        },
+        "ូ": {
+            "ipa": "ou",
+            "romanized": "uu",
+            "cat": "oo"
+        },
+        "ួ": {
+            "ipa": "uə",
+            "romanized": "ua",
+            "cat": "ua"
+        },
+        "ើ": {
+            "ipa": "aə",
+            "romanized": "oe",
+            "cat": "au"
+        },
+        "ឿ": {
+            "ipa": "ɨə",
+            "romanized": "ya",
+            "cat": "ʉa"
+        },
+        "ៀ": {
+            "ipa": "iə",
+            "romanized": "ie",
+            "cat": "ia"
+        },
+        "េ": {
+            "ipa": "ei",
+            "romanized": "e",
+            "cat": "e"
+        },
+        "ែ": {
+            "ipa": "ae",
+            "romanized": "ae",
+            "cat": "ae"
+        },
+        "ៃ": {
+            "ipa": "aj",
+            "romanized": "ai",
+            "cat": "ae"
+        },
+        "ោ": {
+            "ipa": "ao",
+            "romanized": "oo",
+            "cat": "ao"
+        },
+        "ៅ": {
+            "ipa": "aw",
+            "romanized": "au",
+            "cat": "ao"
+        },
+        "ំ": {
+            "ipa": "ɑm",
+            "romanized": "om",
+            "cat": "om"
+        },
+        "ះ": {
+            "ipa": "ah",
+            "romanized": "ah",
+            "cat": "ah"
+        },
+        "ៈ": {
+            "ipa": "aʔ",
+            "romanized": "a",
+            "cat": "a"
+        },
+        "ិះ": {
+            "ipa": "eh",
+            "romanized": "ih",
+            "cat": "i"
+        },
+        "េះ": {
+            "ipa": "eh",
+            "romanized": "eh",
+            "cat": "ei"
+        },
+        "ុះ": {
+            "ipa": "oh",
+            "romanized": "uh",
+            "cat": "o"
+        },
+        "ោះ": {
+            "ipa": "ɑh",
+            "romanized": "ooh",
+            "cat": "ɔh"
+        },
+        "ុំ": {
+            "ipa": "om",
+            "romanized": "um",
+            "cat": "um"
+        },
+        "ាំ": {
+            "ipa": "am",
+            "romanized": "aam",
+            "cat": "am"
+        },
+        "ៗ": {
+            "ipa": "",
+            "romanized": "",
+            "cat": "ៗ"
+        },
+        "។": {
+            "ipa": ".",
+            "romanized": ".",
+            "cat": "."
+        },
+        "៕": {
+            "ipa": ".",
+            "romanized": ".",
+            "cat": "."
+        },
+        "៚": {
+            "ipa": ".",
+            "romanized": ".",
+            "cat": "."
+        },
+        "៖": {
+            "ipa": ":",
+            "romanized": ":",
+            "cat": ":"
+        },
+        "«": {
+            "ipa": "\"",
+            "romanized": "\"",
+            "cat": "\""
+        },
+        "»": {
+            "ipa": "\"",
+            "romanized": "\"",
+            "cat": "\""
+        },
+        "០": {
+            "ipa": "",
+            "romanized": "",
+            "cat": "0"
+        },
+        "១": {
+            "ipa": "1",
+            "romanized": "1",
+            "cat": "1"
+        },
+        "២": {
+            "ipa": "2",
+            "romanized": "2",
+            "cat": "2"
+        },
+        "៣": {
+            "ipa": "3",
+            "romanized": "3",
+            "cat": "3"
+        },
+        "៤": {
+            "ipa": "4",
+            "romanized": "4",
+            "cat": "4"
+        },
+        "៥": {
+            "ipa": "5",
+            "romanized": "5",
+            "cat": "5"
+        },
+        "៦": {
+            "ipa": "6",
+            "romanized": "6",
+            "cat": "6"
+        },
+        "៧": {
+            "ipa": "7",
+            "romanized": "7",
+            "cat": "7"
+        },
+        "៨": {
+            "ipa": "8",
+            "romanized": "8",
+            "cat": "8"
+        },
+        "៩": {
+            "ipa": "9",
+            "romanized": "9",
+            "cat": "9"
+        },
+        "្": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៉": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៊": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៌": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "់": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៍": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៎": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៏": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "័": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        },
+        "៑": {
+            "ipa": "",
+            "romanized": "",
+            "cat": ""
+        }
+    }
+}

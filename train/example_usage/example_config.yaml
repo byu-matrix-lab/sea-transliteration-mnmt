@@ -1,0 +1,54 @@
+output_dir: # This is where the model checkpoints and logs will be saved.
+experiment_name: # This is the name of the experiment. It will be used to name the model checkpoints and logs.
+
+architecture_type: no_transliteration # no_transliteration, concatenated_input, shared_encoder, or dual_encoder
+
+seed: 25 # Random seed
+
+orthographic_tokenizer_json: # Path to the orthographic tokenizer model (json).
+transliteration_tokenizer_json: # Path to the transliteration tokenizer model (json).
+combined_tokenizer_json: # Path to the combined tokenizer model (both orthographic and transliterated) (json).
+transliterator_json: # Path to the transliterator scheme (json).
+transliteration_scheme: ipa # ipa, romanized, cat
+
+# Bart Config params
+max_position_embeddings: 1024
+encoder_layers: 6
+encoder_ffn_dim: 2048
+encoder_attention_heads: 8
+encoder_layerdrop: 0.0
+
+decoder_layers: 6
+decoder_ffn_dim: 2048
+decoder_attention_heads: 8
+decoder_layerdrop: 0.0
+
+activation_function: relu
+d_model: 512
+dropout: 0.1
+
+# Train params
+train_csv: baseline_train.csv
+val_csv: baseline_val.csv
+train_batch_size: 64
+accumulate_grad_batches: 16
+val_batch_size: 64
+num_val_prints: 4
+temperature: 10.0 # Temperature is applied to sampling which Language Direction to use.
+
+max_epochs: 200 # I just set this really big to ensure convergence.
+accelerator: gpu # gpu, cpu
+learning_rate: 1e-4
+devices: 8
+patience: 10
+save_top_k: 2
+log_every_n_steps: 4000
+val_check_interval: 4000 # This is applied based on the effective batch size
+
+# Inference params
+checkpoint: 
+inference_csv:
+inference_batch_size: 4
+num_beams: 5
+max_length: 256
+inference_output: 

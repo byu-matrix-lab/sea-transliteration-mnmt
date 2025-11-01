@@ -1,0 +1,7 @@
+src_lang,tgt_lang,src_orthography_path,src_transliteration_path,tgt_orthography_path,tgt_transliteration_path
+[KHMER],[ENGLISH],data/train_data/raw/khmer/tgt.txt,data/train_data/raw/khmer/tgt_ipa.txt,data/train_data/raw/khmer/src.txt,data/train_data/raw/khmer/src.txt
+[ENGLISH],[KHMER],data/train_data/raw/khmer/src.txt,data/train_data/raw/khmer/src.txt,data/train_data/raw/khmer/tgt.txt,data/train_data/raw/khmer/tgt_ipa.txt
+[THAI],[ENGLISH],data/train_data/raw/thai/tgt.txt,data/train_data/raw/thai/tgt_ipa.txt,data/train_data/raw/thai/src.txt,data/train_data/raw/thai/src.txt
+[ENGLISH],[THAI],data/train_data/raw/thai/src.txt,data/train_data/raw/thai/src.txt,data/train_data/raw/thai/tgt.txt,data/train_data/raw/thai/tgt_ipa.txt
+[LAO],[ENGLISH],data/train_data/raw/lao/tgt.txt,data/train_data/raw/lao/tgt_ipa.txt,data/train_data/raw/lao/src.txt,data/train_data/raw/lao/src.txt
+[ENGLISH],[LAO],data/train_data/raw/lao/src.txt,data/train_data/raw/lao/src.txt,data/train_data/raw/lao/tgt.txt,data/train_data/raw/lao/tgt_ipa.txt
