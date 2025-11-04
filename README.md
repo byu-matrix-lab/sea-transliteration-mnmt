@@ -102,5 +102,12 @@ Dataset: [Paracrawl Bonus](https://paracrawl.eu/vbonus)
 If you use this repository or the transliteration mappings, please cite:
 
 ```
+@inproceedings{shurtz2025scripts,
+  title={When Scripts Diverge: Strengthening Low-Resource Neural Machine Translation Through Phonetic Cross-Lingual Transfer},
+  author={Shurtz, Ammon and Richardson, Christian and Richardson, Stephen D},
+  booktitle={Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025)},
+  pages={336--346},
+  year={2025}
+}
 ```
 
